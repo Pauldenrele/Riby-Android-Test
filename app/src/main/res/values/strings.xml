@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Riby-Android-Test</string>
+    <string name="start">Start</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="pause">PAUSE</string>
+    <string name="mapping">Mapping...</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C4:FC:18:1E:B3:FB:6F:9B:0E:A7:46:36:59:1E:AA:35:80:1C:84:0F%3Bng.riby_android_test
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    ng.riby_android_test
+
+    SHA-1 certificate fingerprint:
+    C4:FC:18:1E:B3:FB:6F:9B:0E:A7:46:36:59:1E:AA:35:80:1C:84:0F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyARHqGvIzYY0UPhmzU0Q8Z1uUTSC125eLw</string>
+</resources>
